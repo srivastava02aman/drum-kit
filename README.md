@@ -6,7 +6,7 @@
   
   <hr><hr>
   
-  <h2>Project review</h2>
+  <h2>Preview</h2>
   <img src="images/Screenshot from 2021-08-15 16-24-56.png" 
      width="80%" 
      height="30%" />
