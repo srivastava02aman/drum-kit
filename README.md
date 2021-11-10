@@ -1,5 +1,5 @@
 <h1>Drum-Kit</h1>
-<h3>Technology Use.</h3>
+<h3>Technology Used.</h3>
 <ol>
   <li>HTML</li>
   <li>CSS</li>
