@@ -1,4 +1,4 @@
-<h1>Drum-Kit</h1>
+<h1>Drum Kit</h1>
 <h3>Technology Used.</h3>
 <ol>
   <li>HTML</li>
